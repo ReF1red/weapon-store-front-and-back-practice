@@ -1,7 +1,7 @@
 # Контрольная работа №1
 
 Тема проекта: оружейный магазин.
-
+Ссылка на репозиторий: https://github.com/ReF1red/weapon-store-front-and-back-practice
 Документация Swagger (practice-5 backend): `http://localhost:3000/api-docs`
 
 ## Структура практик
