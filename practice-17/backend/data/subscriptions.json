@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "3",
+    "endpoint": "https://fcm.googleapis.com/fcm/send/c6pn8B-47MY:APA91bFhN7QeVQRY7tCEW5yF1s0mfs7eHdybljlWlDWNSCw6VfM-yvJMngBz313CtwkO0MnrfLUepdp9oavwZww3UymQO_gP8OEPWaqRz21Zz4v2cQRLbqpzfNq3bbqwqjRh5VeJXCrr",
+    "keys": {
+      "p256dh": "BCMvUF50RlUoWWSn9oB4yFg7TjKkq7x6MBtGSVjoyxf-sgObcagoOHXQ8f38i7JxT6TPytrPOu9CjB4c_G6KDZA",
+      "auth": "JXCTDu2W8EHSGe2jSqXJpA"
+    }
+  }
+]

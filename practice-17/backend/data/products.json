@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "name": "M4A1 Patrol",
+    "category": "Карабины 5.56",
+    "price": 169000,
+    "description": "Компактный карабин с хорошей эргономикой для тактических задач.",
+    "stock": 9,
+    "image": "m4a1.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Glock 17 Gen5",
+    "category": "Пистолеты",
+    "price": 96000,
+    "description": "Служебный пистолет с полимерной рамой и ресурсным стволом.",
+    "stock": 21,
+    "image": "glock-17.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Remington 870 Tactical",
+    "category": "Дробовики",
+    "price": 119000,
+    "description": "Надежный помповый дробовик для охраны и спорта.",
+    "stock": 14,
+    "image": "remington-870.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Taurus .44 Hunter",
+    "category": "Револьверы",
+    "price": 112000,
+    "description": "Мощный револьвер с усиленной рамкой и уверенной баллистикой.",
+    "stock": 8,
+    "image": "taurus-44.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "SVD Marksman",
+    "category": "Снайперские винтовки",
+    "price": 214000,
+    "description": "Полуавтоматическая платформа для точной стрельбы на дистанции.",
+    "stock": 5,
+    "image": "ak-12.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Beretta 92FS",
+    "category": "Пистолеты",
+    "price": 89000,
+    "description": "Классическая стальная платформа 9x19 для тренировок и службы.",
+    "stock": 18,
+    "image": "glock-17.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "MP5 SD",
+    "category": "Пистолеты-пулеметы",
+    "price": 186000,
+    "description": "Компактная система с интегрированным шумоподавлением.",
+    "stock": 7,
+    "image": "m4a1.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Mossberg 590A1",
+    "category": "Дробовики",
+    "price": 124000,
+    "description": "Прочный помповый дробовик с усиленным стволом.",
+    "stock": 11,
+    "image": "remington-870.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "CZ P-10 C",
+    "category": "Пистолеты",
+    "price": 91000,
+    "description": "Современный полимерный пистолет с коротким и четким спуском.",
+    "stock": 16,
+    "image": "taurus-44.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "AK-12",
+    "category": "Штурмовые винтовки",
+    "price": 178000,
+    "description": "Современная модульная винтовка под платформу 5.45.",
+    "stock": 10,
+    "image": "ak-12.jpeg",
+    "discountPercent": 20,
+    "discountStartTime": "2026-06-01T04:26:00.000Z",
+    "discountEndTime": "2026-06-01T04:27:00.000Z"
+  },
+  {
+    "id": "llIJ8mYf",
+    "name": "позиция",
+    "category": "позиция",
+    "price": 122,
+    "description": "позиция",
+    "stock": 2
+  }
+]

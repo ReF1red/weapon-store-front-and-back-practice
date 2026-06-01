@@ -1,0 +1,153 @@
+.users-page {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.users-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.users-header h2 {
+    color: #a86f1b;
+    font-size: 1.8rem;
+}
+
+.users-stats {
+    display: flex;
+    gap: 1.5rem;
+    color: #1f2937;
+    font-weight: 600;
+}
+
+.users-table-container {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.users-table thead {
+    background: linear-gradient(135deg, #a86f1b, #6b3f1f);
+    color: white;
+}
+
+.users-table th {
+    padding: 1rem 1.5rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.users-table td {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #f5f7fa;
+}
+
+.users-table tbody tr:hover {
+    background: #fff9f2;
+}
+
+.user-email {
+    font-weight: 600;
+    color: #a86f1b;
+}
+
+.role-badge {
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.badge-admin {
+    background: #c0392b;
+    color: white;
+}
+
+.badge-seller {
+    background: #f39c12;
+    color: white;
+}
+
+.badge-user {
+    background: #3498db;
+    color: white;
+}
+
+.status-indicator {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.status-indicator::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+.status-indicator.active {
+    color: #27ae60;
+}
+
+.status-indicator.active::before {
+    background: #27ae60;
+}
+
+.status-indicator.blocked {
+    color: #c0392b;
+}
+
+.status-indicator.blocked::before {
+    background: #c0392b;
+}
+
+.actions-cell {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.table-btn {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: all 0.3s;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    color: #1f2937;
+}
+
+.edit-btn:hover {
+    background: #f0e6d3;
+    transform: scale(1.05);
+}
+
+.block-btn:hover {
+    background: #fee;
+    transform: scale(1.05);
+}
+
+.edit-user-email {
+    color: #a86f1b;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #f5f7fa;
+}

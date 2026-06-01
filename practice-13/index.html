@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    
+    <title>Бастион</title>
+
+    <meta name="theme-color" content="#a86f1b">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Бастион</h1>
+    </header>
+    
+    <main>
+        <div class="toolbar">
+            <h2>Каталог оружия</h2>
+            <button id="addBtn" class="btn btn-primary">+ Добавить позицию</button>
+        </div>
+        
+        <div id="products-container" class="products-grid">
+            <div class="loading">Загрузка...</div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Бастион — работает офлайн</p>
+    </footer>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <h3 id="modalTitle">Добавить позицию</h3>
+            <form id="productForm">
+                <input type="text" id="productName" placeholder="Название" required>
+                <input type="text" id="productCategory" placeholder="Категория" required>
+                <input type="number" id="productPrice" placeholder="Цена (₽)" required>
+                <textarea id="productDescription" placeholder="Описание" rows="3" required></textarea>
+                <input type="number" id="productStock" placeholder="Количество на складе" required>
+                <div class="modal-buttons">
+                    <button type="submit" class="btn btn-primary">Сохранить</button>
+                    <button type="button" id="closeModal" class="btn btn-secondary">Отмена</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

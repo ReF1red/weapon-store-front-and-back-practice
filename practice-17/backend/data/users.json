@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "email": "admin@email.com",
+    "first_name": "Admin",
+    "last_name": "Admin",
+    "role": "admin",
+    "hashedPassword": "$2b$10$2FYsNrBicFLPo4Rxx6LuXu9hB6/OoN4mnLi/2c4rk7nYn4rpr8y.m",
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "email": "seller@email.com",
+    "first_name": "Seller",
+    "last_name": "Seller",
+    "role": "seller",
+    "hashedPassword": "$2b$10$9o5XEF7aG.7o6WnGXVlPHuhup7D2NXxF4drKVfAvIQqoKldPPxZGC",
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "email": "user@email.com",
+    "first_name": "User",
+    "last_name": "User",
+    "role": "user",
+    "hashedPassword": "$2b$10$sD2lUIdKitTdSWAoAbStH.O3WtUeSYxySgQ2WSf7uCo0TzfBobHFy",
+    "isActive": true
+  }
+]

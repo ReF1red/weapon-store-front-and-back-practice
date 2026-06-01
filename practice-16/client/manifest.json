@@ -1,0 +1,9 @@
+{
+  "name": "Бастион",
+  "short_name": "Бастион",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#a86f1b",
+  "description": "Оружейный магазин с офлайн-режимом"
+}
